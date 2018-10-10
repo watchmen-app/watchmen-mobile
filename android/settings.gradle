@@ -1,0 +1,3 @@
+rootProject.name = 'watchmen'
+
+include ':app'
