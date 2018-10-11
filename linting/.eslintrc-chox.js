@@ -19,5 +19,6 @@ module.exports = {
 		'comma-dangle': ['error', 'never'],
 		'indent': ['error', 'tab', {'MemberExpression': 'off', 'SwitchCase': 1}],
 		'brace-style': ['error', 'stroustrup'],
+		'class-methods-use-this': 0
 	}
 }
